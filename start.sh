@@ -7,9 +7,9 @@ export TLS=${TLS:-'1'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
 export ARGO_AUTH=${ARGO_AUTH:-''}
-export WSPATH=${WSPATH:-'argo'}
-export UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-export CFIP=${CFIP:-'icook.hk'}
+export WSPATH=${WSPATH:-'rago'}
+export UUID=${UUID:-'562e5c83-a65b-c8b5-fd8e-d88fc3c15708'}
+export CFIP=${CFIP:-'government.se'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 
